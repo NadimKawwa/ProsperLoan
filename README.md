@@ -13,4 +13,4 @@ The data set contains 113,937 loans with 81 variables on each loan, including lo
 ## Output
 The visualizations from the dataset are hosted on the [tableau website](https://public.tableau.com/profile/nadim4438#!/vizhome/shared/3P658RB9Z)
 
-A summary and explanation of the steps are provided in `TableauReport_00.pdf`
+A summary and explanation of the steps are provided in `TableauReport_00.html`
